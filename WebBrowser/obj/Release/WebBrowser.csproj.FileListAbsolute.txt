@@ -1,0 +1,12 @@
+E:\work\程序\c#\WebBrowser\bin\Release\WebBrowser.exe.config
+E:\work\程序\c#\WebBrowser\bin\Release\WebBrowser.exe
+E:\work\程序\c#\WebBrowser\bin\Release\WebBrowser.pdb
+E:\work\程序\c#\WebBrowser\obj\Release\WebBrowser.csprojAssemblyReference.cache
+E:\work\程序\c#\WebBrowser\obj\Release\WebBrowser.CodeView.resources
+E:\work\程序\c#\WebBrowser\obj\Release\WebBrowser.Form1.resources
+E:\work\程序\c#\WebBrowser\obj\Release\WebBrowser.frmMain.resources
+E:\work\程序\c#\WebBrowser\obj\Release\WebBrowser.Properties.Resources.resources
+E:\work\程序\c#\WebBrowser\obj\Release\WebBrowser.csproj.GenerateResource.cache
+E:\work\程序\c#\WebBrowser\obj\Release\WebBrowser.csproj.CoreCompileInputs.cache
+E:\work\程序\c#\WebBrowser\obj\Release\WebBrowser.exe
+E:\work\程序\c#\WebBrowser\obj\Release\WebBrowser.pdb
